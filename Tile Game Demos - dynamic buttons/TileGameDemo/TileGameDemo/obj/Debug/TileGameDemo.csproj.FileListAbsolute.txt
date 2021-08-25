@@ -1,0 +1,21 @@
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.exe.config
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.exe
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.pdb
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csprojAssemblyReference.cache
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.TileDemo.resources
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.Properties.Resources.resources
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csproj.GenerateResource.cache
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.exe
+C:\Users\andym\source\Tile Game Demos\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.pdb
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.exe.config
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.exe
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\bin\Debug\TileGameDemo.pdb
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csprojAssemblyReference.cache
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.TileDemo.resources
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.Properties.Resources.resources
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csproj.GenerateResource.cache
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.exe
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.pdb
+C:\Users\andym\source\Tile Game Demos - dynamic buttons\TileGameDemo\TileGameDemo\obj\Debug\TileGameDemo.Resource1.resources
